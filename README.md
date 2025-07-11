@@ -1,40 +1,40 @@
 # ToolTrackAPP – Control Inteligente de Herramientas
 
-**ToolTrackAPP** es una aplicación de escritorio moderna desarrollada con React y Electron, diseñada para gestionar el control de ingreso y egreso de herramientas en proyectos o áreas operativas. Permite registrar herramientas, usuarios, ubicaciones y movimientos, así como generar reportes básicos del inventario disponible.
+**ToolTrackAPP** es una aplicación de escritorio desarrollada con React y Electron para el control eficiente de herramientas en obras o proyectos. Incluye registro, seguimiento y generación de reportes.
 
 ---
 
-## Instalación
+## Descarga la Aplicación
 
-Puedes descargar la versión instalable de la aplicación desde la sección de [Releases](https://github.com/SOQI17/ToolTrackAPP/releases).
+La versión instalable de ToolTrack está disponible en la sección de [**Releases**](https://github.com/SOQI17/ToolTrack_ReactApp/releases).
 
-
-Haz clic aquí para descargar el instalador `.exe`:  
- [Descargar ToolTrack v1.0](https://github.com/SOQI17/ToolTrackAPP/releases/latest)
+ [Haz clic aquí para descargar la última versión](https://github.com/SOQI17/ToolTrack_ReactApp/releases/latest)
 
 ---
 
-## Funcionalidades principales
+## Características principales
 
-- Registro de herramientas con nombre, serial, código y descripción.
-- Registro de movimientos de ingreso/egreso con ubicación, responsable y fecha.
+- Registro de herramientas (nombre, serial, código, descripción).
+- Registro de movimientos (ingreso/egreso, ubicación, responsable).
 - Visualización de herramientas disponibles y en uso.
 - Exportación de registros a Excel.
-- Datos almacenados localmente en archivos `.json` para funcionamiento offline.
+- Funciona 100% local (archivos `.json`), no requiere conexión a internet.
 
 ---
 
-## 🛠 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
-- ⚛️ React
-- ⚡ Electron
-- 🌀 TailwindCSS
-- 🗃 Archivos JSON locales (sin necesidad de base de datos externa)
+- React
+- Electron
+- TailwindCSS
+- Archivos JSON locales
 
 ---
 
-## 👨‍💻 Desarrollado por
+## Desarrollado por
+
 **AG – ORIMEC**
 
 ---
+
 
